@@ -1,0 +1,18 @@
+[submodule "com-lib"]
+	path = com-lib
+	url = https://github.com/ZmaevDA/com-lib
+[submodule "admin-service"]
+	path = admin-service
+	url = https://github.com/ZmaevDA/admin-service
+[submodule "notification-service"]
+	path = notification-service
+	url = https://github.com/ZmaevDA/notification-service
+[submodule "infra"]
+	path = infra
+	url = https://github.com/ZmaevDA/infra
+[submodule "custom-keycloak"]
+	path = custom-keycloak
+	url = https://github.com/ZmaevDA/custom-keycloak
+[submodule "support"]
+	path = support
+	url = https://github.com/ZmaevDA/support
